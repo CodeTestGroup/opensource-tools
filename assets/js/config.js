@@ -85,7 +85,7 @@ function checkVersionAndNotify() {
             if (currentVersion !== Version) {
                 // If the versions are not equal, show a message and change the background color
                 document.body.style.backgroundColor = 'red';
-                document.querySelector('#main').innerHTML = '<p>This is an old version! Please update at <a href="https://github.com/CodeTestGroup/ost">https://github.com/CodeTestGroup/ost</a>.</p>';
+                document.querySelector('#main').innerHTML = '<p>This is an old version! Please update at <a href="https://github.com/CodeTestGroup/opensource-tools">https://github.com/CodeTestGroup/opensource-tools</a>.</p>';
             }
 
             // Call function to notify server
