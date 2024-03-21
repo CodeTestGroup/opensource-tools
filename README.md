@@ -47,7 +47,7 @@
       <b>Step 5:</b>
         <p>Now open the app called XAMPP CONTROL PANEL and on the line that says "Apache" click the button that says start next to it!</p>
       <b>Step 6:</b>
-        <p>Now if you have done everything correctly if you open any web browser and type in http://localhsot/ and you should be able to go to the page and see the OpenSourceTools website!</p>
+        <p>Now if you have done everything correctly if you open any web browser and type in http://localhost/ and you should be able to go to the page and see the OpenSourceTools website!</p>
     <h3>Other website server app:</h3>
       <b>Step 1:</b>
         <p>Download your chsoen webserver hsot</p>
@@ -61,7 +61,7 @@
       <b>Step 5:</b>
         <p>Now start your web server hsot app!</p>
       <b>Step 6:</b>
-        <p>Now if you have done everything correctly if you open any web browser and type in http://localhsot/ and you should be able to go to the page and see the OpenSourceTools website!</p>
+        <p>Now if you have done everything correctly if you open any web browser and type in http://localhost/ and you should be able to go to the page and see the OpenSourceTools website!</p>
   <h2>Linux/Raspberry PI:</h2>
     <h3>Apache 2:</h3>
       <b>Step 1:</b>
@@ -81,7 +81,7 @@
         <p>Now get that IP address that you just found and type it into a web browser and if you did it correctly you should see OpenSourceTools!</p>
 
 <h1>How to use:</h1>
-  <h2>Self Hsoted (on your computer):</h2>
-    <p>After you have followed the above instructions to install, download and run the webserver and page files you can just go to <a href="http://localhsot/">http://localhsot/</a> to see it on your machine that you are hsoting it on. The localhsot url ONLY works on the same machine that the webserver hsoting is running on, if you want to access it from another computer/device you have to get your local IP address of the computer that you are hosting it on. After you have the IP address of the computer that you are hosting it on you can now on another device go to that IP address (eg. 192.168.1.124) and if it is corrret you will be able to see it!</p>
+  <h2>Self Hosted (on your computer):</h2>
+    <p>After you have followed the above instructions to install, download and run the webserver and page files you can just go to <a href="http://localhost/">http://localhost/</a> to see it on your machine that you are hosting it on. The localhost url ONLY works on the same machine that the webserver hosting is running on, if you want to access it from another computer/device you have to get your local IP address of the computer that you are hosting it on. After you have the IP address of the computer that you are hosting it on you can now on another device go to that IP address (eg. 192.168.1.124) and if it is corrret you will be able to see it!</p>
   <h2>Github pages:</h2>
     <p>This is the version that you can use without downloading or doing any server setup. This runs on github and you can use it via <a href="https://codetestgroup.github.io/opensource-tools">https://codetestgroup.github.io/opensource-tools</a>! You can use this on any computer, anywhere in the world.</p>
