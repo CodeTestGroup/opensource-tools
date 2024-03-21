@@ -61,7 +61,7 @@
       <b>Step 5:</b>
         <p>Now start your web server hsot app!</p>
       <b>Step 6:</b>
-        <p>Now if you have done everything correctlly if you open any web browser and type in http://localhsot/ and you should be able to go to the page and see the OpenSourceTools website!</p>
+        <p>Now if you have done everything correctly if you open any web browser and type in http://localhsot/ and you should be able to go to the page and see the OpenSourceTools website!</p>
   <h2>Linux/Raspberry PI:</h2>
     <h3>Apache 2:</h3>
       <b>Step 1:</b>
