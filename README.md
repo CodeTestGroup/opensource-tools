@@ -79,3 +79,9 @@
         <p>Now run the command " ip a " on the terminal and find your IP adress (eg. 192.168.1.124)</p>
       <b>Step 7:</b>
         <p>Now get that IP adress that you just found and type it into a web browser and if you did it correctlly you should see OpenSourceTools!</p>
+
+<h1>How to use:</h1>
+  <h2>Self Hosted (on your computer):</h2>
+    <p>After you have followed the above instructions to install, downlaod and run the webserver and page files you can just go to <a href="http://localhost/">http://localhost/</a> to see it on your machine that you are hosting it on. The localhost url ONLY works on the same machine that the webserver hosting is running on, if you want to access it from another computer/device you ahve to get your local IP adress of the computer that you are hosting it on. After you have the Ip adress of the computer that you are chosting it on you can now on another device go to that IP address (eg. 192.168.1.124) and if it is corrrct you woll be able to see it!</p>
+  <h2>Github pages:</h2>
+    <p>This is the version that you can use without donwloading or doing any server setup. This runs thru github and you can use it via <a href="https://codetestgroup.github.io/opensource-tools">https://codetestgroup.github.io/opensource-tools</a>! You can use this on any computer, anywhere in the world.</p>
