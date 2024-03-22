@@ -65,14 +65,18 @@
   <h2>Linux/Raspberry PI:</h2>
     <h3>Apache 2:</h3>
       <b>Step 1:</b>
-        <p>On your terminal install Apache webserver hsot!</p>
+        <p>On your terminal install Apache webserver host with this command:</p>
+        <p>sudo apt-get install apache2</p>
       <b>Step 2:</b>
-       <p>Now after its installed go to the folder called /var/wwww/html/ and create a folder called "OpenSourceTools"</p>
+       <p>Now after its installed go to the folder called /var/wwww/html/ (command 1)</p>
+       <p>COMMAND 1. cd /var/www/html/</p>
       <b>Step 3:</b>
-        <p>Now go to the "OpenSourceTools" folder that you just created and downlaod the files from the github repsoitory <a href="https://github.com/CodeTestGroup/opensource-tools">https://github.com/CodeTestGroup/opensource-tools</a> and copy the downloaded files into your OpenSourceTools folder.</p>
+        <p>Now use command 1 to download the files from the github repsoitory <a href="https://github.com/CodeTestGroup/opensource-tools">https://github.com/CodeTestGroup/opensource-tools</a></p>
+        <p>COMMAND 1. git clone https://github.com/codetestgroup/opensource-tools</p>
       <b>Step 4:</b>
-        <p>Now go back to /var/wwww/html/ and open the file called "index.html" and remove all the contents of it and put this text into it:</p>
-          <p>&lt;!DOCTYPE html&gt; &lt;html lang="en"&gt;&lt;head&gt;&lt;meta charset="UTF-8"&gt;&lt;meta http-equiv="refresh" content="0; url=OpenSourceTools/index.html"&gt;&lt;title&gt;Redirecting...&lt;/title&gt; &lt;/head&gt;&lt;body&gt; &lt;p&gt;If you are not redirected automatically, &lt;a href="OpenSourceTools/index.html"&gt;click here&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt; &lt;/html&gt;</p>
+        <p>Now go back to /var/wwww/html/ and open the file called "index.html" (command 1) and remove all the contents of it and put this text into it:</p>
+          <p>TEXT: &lt;!DOCTYPE html&gt; &lt;html lang="en"&gt;&lt;head&gt;&lt;meta charset="UTF-8"&gt;&lt;meta http-equiv="refresh" content="0; url=opensource-tools/index.html"&gt;&lt;title&gt;Redirecting...&lt;/title&gt; &lt;/head&gt;&lt;body&gt; &lt;p&gt;If you are not redirected automatically, &lt;a href="opensource-tools/index.html"&gt;click here&lt;/a&gt;.&lt;/p&gt;&lt;/body&gt; &lt;/html&gt;</p>
+          <p>COMMAND 1: cd /var/www/html</p>
       <b>Step 5:</b>
         <p>Now start Apache 2 and run it:</p>
       <b>Step 6:</b>
