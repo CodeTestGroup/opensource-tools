@@ -1,4 +1,4 @@
-var Version = "2.0";
+var Version = "2.1";
 function loadTool(toolName) {
     $.ajax({
         url: 'tools/' + toolName + '.html',
