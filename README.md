@@ -13,7 +13,7 @@
     <p>If you are running a outdated version of the website you will see an "Outdated Version" error on the homepage, this is easy to remove by simply just updating it to the new version in this repsoitory!</p>
   <h2>Future Updates:</h2>
     <p>1.0 - Made UI changes and made first prototype - DONE</p>
-    <p>1.1 - Put asset files on github to decrase document download sizes - DONE</p>
+    <p>1.1 - Put asset files on github to decrase document download sizes - ABORTED</p>
     <p>1.2 - Made more config options and a serverside version that has database support - NEXT</p>
     <p>1.4 - Made more games, settings, and better error handling - NOT DONE YET</p>
 
