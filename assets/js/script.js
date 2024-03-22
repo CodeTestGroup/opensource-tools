@@ -1,3 +1,4 @@
+var Version = "1.1";
 function loadTool(toolName) {
     $.ajax({
         url: 'tools/' + toolName + '.html',
@@ -13,7 +14,7 @@ function loadTool(toolName) {
 function loadToolIframe(toolName) {
     // Create an iframe element
     var iframe = document.createElement('iframe');
-    iframe.src = 'tools/' + toolName + '.html'; // Set the source of the iframe
+    iframe.src = 'activities/tools/' + toolName + '.html'; // Set the source of the iframe
     iframe.style.width = '100%'; // Set width to 100%
     iframe.style.height = '100%'; // Set height to 100%
     iframe.style.border = 'none'; // Remove border
