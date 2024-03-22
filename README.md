@@ -1,7 +1,6 @@
 <h1>Open Source Tools</h1>
 
 <p>Welcome to the CodeTestGroup OpenSourceWebTools! With this code you can have a website that has multiple features and a config file so you can customise it however you want! (read more in confiig section)</p>
-<h3>DISCLAIMER: until we get version 2.0 out there will be CONTANT updates. This is becuase this is very recent and until we get most static files onto github they will be stored on your local server. This means that if we find a bug instead of just updating static on github we will have to have you update it manually on your server/machine. Expected Date For v2: 3/22/2024 - 3/23/2024</h3>
 
 <h1>Configuration Settings:</h1>
   <h2>Config Files:</h2>
@@ -15,8 +14,9 @@
   <h2>Future Updates:</h2>
     <p>1.0 - Made UI changes and made first prototype - DONE</p>
     <p>1.1 - Put asset files on github to decrase document download sizes - ABORTED</p>
-    <p>2.0 - Put all static on gituhb, means more updates but you wont have to update your server/system - WORKING ON</p>
-    <p>2.1 - Made more config options and a serverside version that has database support</p>
+    <p>2.0 - Put all static on gituhb, means more updates but you wont have to update your server/system - DONE</p>
+    <p>2.1 - Add more games and pages - DONE</p>
+    <p>2.1 - Made more config options and a serverside version that has database support - WORKING ON</p>
     <p>2.3 - Made more games, settings, and better error handling</p>
 
 <h1>Configuration files syntax:</h1>
