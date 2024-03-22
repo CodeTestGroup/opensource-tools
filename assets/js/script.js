@@ -1,4 +1,4 @@
-var Version = "2.00-0";
+var Version = "2.0";
 function loadTool(toolName) {
     $.ajax({
         url: 'https://codetestgroup.github.io/opensource-tools-assets/tools/' + toolName + '.html',
