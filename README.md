@@ -36,7 +36,10 @@
         <p>TITLE_TEXT_COLOR: #ffffff</p>
         <p>SIDE_BAR_COLOR: #6cab2c</p>
 
-<h1>Server Setup:</h1>
+<h1>Versions:</h1>
+    <p>We have multiple versions of this website that has static host support and serverside support. Static is the simplest to setup but with serverside support you can use databases, php and a settings area. For beginers we would reccomend static host but for advanced users we would reccomend serverside host.</p>
+
+<h1>Static Server Setup:</h1>
   <h2>Windows Computers:</h2>
     <h3>XAMPP instructions:</h3>
       <b>Step 1:</b>
@@ -66,7 +69,8 @@
         <p>Now start your web server hsot app!</p>
       <b>Step 6:</b>
         <p>Now if you have done everything correctly if you open any web browser and type in http://localhost/ and you should be able to go to the page and see the OpenSourceTools website!</p>
-  <h2>Linux/Raspberry PI:</h2>
+
+   <h2>Linux/Raspberry PI:</h2>
     <h3>Apache 2:</h3>
       <b>Step 1:</b>
         <p>On your terminal install Apache webserver host with this command:</p>
