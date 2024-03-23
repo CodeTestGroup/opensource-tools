@@ -16,8 +16,9 @@
     <p>1.1 - Put asset files on github to decrase document download sizes - ABORTED</p>
     <p>2.0 - Put all static on gituhb, means more updates but you wont have to update your server/system - DONE</p>
     <p>2.1 - Add more games and pages - DONE</p>
-    <p>2.2 - Made more config options and a serverside version that has database support - WORKING ON</p>
-    <p>2.3 - Made more games, settings, and better error handling</p>
+    <p>2.2 - Put all static files on github for less updates and more features - DONE</p>
+    <p>2.3 - Made more config options and a serverside version that has database support - WORKING ON</p>
+    <p>2.4 - Made more games, settings, and better error handling</p>
 
 <h1>Configuration files syntax:</h1>
   <h2>config.txt:</h2>
