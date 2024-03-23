@@ -1,4 +1,4 @@
-TITLE_TEXT: Open Source Tools [change in config.txt]
+TITLE_TEXT: fjkfgdfr
 TITLE_COLOR: #0a708f
 BACKGROUND_COLOR: #317f6f
 TITLE_TEXT_COLOR: #ffffff
